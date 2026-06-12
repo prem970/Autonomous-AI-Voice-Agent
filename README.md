@@ -223,17 +223,6 @@ Reduce manual intervention in repetitive call-handling tasks.
 - Voice personalization
 
 ---
-
-## 📸 Demo
-
-Add screenshots, architecture diagrams, or demo GIFs here.
-
-```markdown
-![Voice Agent Architecture](images/architecture.png)
-
-![Call Flow](images/workflow.png)
-```
-
 ---
 
 ## 💼 Skills Demonstrated
