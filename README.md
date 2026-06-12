@@ -253,10 +253,9 @@ Add screenshots, architecture diagrams, or demo GIFs here.
 
 ## 👨‍💻 Author
 
-**Prem Kumar**
+**Prem P**
 
 - GitHub: https://github.com/prem970
-- LinkedIn: Add your LinkedIn profile
 
 ---
 
